@@ -29,4 +29,5 @@ This application handles
 Important Note: This application was originally designed for macOS as it uses Apple Color Emoji to render all emojis. For all windows users, replace the emoji font with "font-family: Segoe UI Emoji;"
 
 Created by Bryan Han
+
 For learning PyQt5, APIs, and GUI development in Python.
